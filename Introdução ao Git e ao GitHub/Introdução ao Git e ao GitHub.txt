@@ -1,0 +1,97 @@
+Git e GitHub são tecnologias diferentes, porém
+complementares
+
+----------------------------------------------
+PROMPT DE COMANDO WINDOWS
+
+COMANDOS
+dir - Usado para listar e se situar em qual 
+local estamos dentro de um sistema operacional
+
+cd (change directory)- Permite que naveguemos
+entre as pastas e ele é igual para todos os 
+sistemas operacionais
+
+cls (clear screen)- Limpa o terminal
+
+mkdir (make directory) - Cria uma pasta, igual
+para todos os sistemas opeacionais
+
+echo + texto - Serve para printar uma mensagem
+no terminal
+
+echo + texto > nomeArquivo.tipo - Serve para
+salvar a mensagem dentro de um arquivo
+
+del - Comando para deletar arquivos
+
+rmdir (remove directory) - Comando para deletar
+um repositório (pasta)
+
+----------------------------------------------
+SHA1
+A sigla SHA significa Secure Hash Alorithm
+(Algoritmo de Hash Seguro), é um conjunto de
+funções hash criptográficas projetadas pela 
+NSA (Agência de Segurança Nacional dos EUA).
+É uma forma culta de representar um arquivo.
+
+COMANDOS
+openssl + formaEncriptação - Comando para 
+critografar um arquivo usando o git BASH
+
+----------------------------------------------
+OBJETOS FUNDAMENTAIS
+
+BLOB (arquivos)
+Contém o tipo do objeto, o tamanho da string
+ou arquivo, \0 com o conteúdo do arquivo
+
+TREE (pastas)
+Trees armazenam blobs, ela também contém o \0
+e aponta para um blob que contém um sha1 e
+também o nome do arquivo, uma Tree pode apontar
+para outra Tree
+
+COMMIT
+Commit é o objeto que junta tudo, que dá sentido
+a alteração que você está fazendo, o commit
+aponta para uma árvore, para um parente, para
+um autor e uma mensagem também, a informação
+da data e hora em que o objeto foi criado é
+carregado pela commit
+
+----------------------------------------------
+FLAGS
+
+ls -a: Serve para enxergar pastas ocultas que
+existe dentro do diretório
+
+----------------------------------------------
+GIT INIT
+Serve para iniciar um repositório dentro de um
+diretório
+
+-----------------------------------------------
+COMANDOS 
+mv nomeArquivo.tipo ./novaPasta/ - Serve para
+mover um arquivo para outra pasta
+
+git remote add apelidoRepositorio 
+urlRepositorioRemoto - Adicionar endereço do 
+repositório remoto na nossa máquina
+
+git remote -v - Mostra todos os endereços de
+url salvos na máquina
+
+git push apelidoRepositorio master - Comando
+para enviar os arquivos da nossa máquina para
+o github
+
+git pull apelidoRepositorio master - Puxa todos
+os arquivos salvos no repositório remoto
+
+git clone urlRepositorio - Serve para baixar
+um repositório do github na sua máquina
+
+----------------------------------------------
