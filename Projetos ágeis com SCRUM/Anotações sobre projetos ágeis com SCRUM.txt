@@ -1,0 +1,120 @@
+CONCEITOS BÁSICOS SCRUM
+
+PROCESSO DE DESENVOLVIMENTO
+.Concepção
+.Análise & Design
+.Desenvolvimento
+.Testes
+.Implantação
+
+DESAFIOS DO DESENVOLVIMENTO DE SOFTWARE
+O Princípio de Pareto também se aplica ao
+desenvolvimento de software, onde 20% das
+funcionalidade costumam gerar 80% ou mais do
+benefício esperado
+
+GESTÃO DE PROJETOS TRADICIONAL X ÁGIL
+Tradicional (Waterfall): Só permite que o
+projeto avance quando uma fase está
+inteiramente completa.
+.Escopo definido na fase inicial do projeto
+(preditivo)
+.Projeto é controlado por fases e marcos
+.Cliente só vê o software funcionando na fase
+final do projeto
+.Resistência a mudanças
+
+Ágil: Software construído por partes (incremental)
+e cada parte executa-se em um ciclo (iterativo)
+.Escopo definido ao longo do projeto (Adaptativo)
+.Projeto é controlado por funcionalidades
+entregues
+.Cliente pode ver partes do software funcionando
+na parte inicial do projeto
+.Mudanças constantes de acordo com feedbacks
+contínuos
+
+Em projetos tradicionais (Waterfall), você
+corre o risco de descobrir que estava errado
+depois de meses. Com o SCRUM, você descobre 
+no máximo em 30 dias
+
+SCRUM
+.SCRUM é um dos frameworks de gerenciamento
+de projetos ágeis
+.Projetos usando equipes pequenas e multidisciplinares
+produzem os melhores resultados
+
+PILARES DO SCRUM
+.Transparência
+.Adaptação
+.Inspeção
+
+----------------------------------------------
+PAPÉIS E RESPOSABILIDADES DE CADA UM DO TIME
+
+PRODUCT OWNER (PO)
+.Representante da área de negócios
+.PO não é um comitê
+.Define as funcionalidades do software
+(Product Backlog)
+.Prioriza as funcionalidades de acordo com o
+valor do negócio
+.Garante que o time de desenvolvimento entenda
+os itens do backlog no nível necessário
+
+SCRUM MASTER (SM)
+.Garantir o uso correto do SCRUM
+.Scrum Master não é gerente de projetos
+.Age como facilitador
+.Auxilia o Product Owner no planejamento e 
+estimativas de backlog
+.Auxilia a equipe a remover impedimentos
+.Treina o time em autogerenciamento e interdisciplinaridade
+
+TIME DE DESENVOLVIMENTO (DEV)
+.Possui habilidades suficientes para desenvolver,
+testar, criar e desenhar, ou seja, tudo que for
+necessário para entregar o software funcionando
+
+-----------------------------------------------
+CERIMÔNIAS DO SCRUM
+
+SPRINT (CORRIDA, ARRANCADA)
+É o principal evento do SCRUM
+Duração de 1 Sprint:
+.30 dias corridos (ou menos)
+Composição de uma Sprint:
+.Planejamento da Sprint
+.Reuniões Diárias (Daily Meeting)
+.Revisão da Sprint (Review)
+.Retrospectiva da Sprint
+
+----------------------------------------------
+RELEASE PLANNING
+Liberação ou lançamento de software
+Existem 2 tipos de Releasing Planning:
+.Release Planning de Múltiplas Squads
+.Release Planning de Projeto
+
+----------------------------------------------
+PRODUCT BACKLOG
+Product Backlog é composto por Épicos e Estórias
+Épicos = Incremento sem muito detalhamento, 
+ajuda a te direcionar dos caminhos que deve
+seguir
+Estória = Detalhamento dos épicos, um épico
+normalmente se divide em várias estórias, onde
+ficam descritos o que deve acontecer e suas 
+regras de negócio
+
+----------------------------------------------
+O QUE É UM CRITÉRIO DE ACEITE?
+É uma lista de critérios que precisam ser 
+alcançados para que o User Story atenda os
+requisitos do usuário e seja aceita pelo Product
+Owner
+Os critérios de aceitação têm o objetivo de:
+definir limites para as user stories. Ajudar
+o P.O. a detalhar em alto nível o que é 
+necessário para entregar valor ao cliente

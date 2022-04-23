@@ -94,4 +94,7 @@ os arquivos salvos no repositório remoto
 git clone urlRepositorio - Serve para baixar
 um repositório do github na sua máquina
 
+git commit -m "Mensagem sobre o commit feito" - 
+Comando para realizar o commit dos arquivos
+na nossa máquina
 ----------------------------------------------
